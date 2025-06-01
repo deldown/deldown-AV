@@ -1,6 +1,6 @@
 # deldown AV - Einfaches Open-Source-Antivirus
 
-deldown AV ist ein leichtes, einfaches und Open-Source-Antivirus, das laufende Prozesse im Hintergrund überprüft und mit der MalwareBazaar API abgleicht. Es bietet grundlegenden Schutz vor bekannten Bedrohungen ohne eine Benutzeroberfläche.
+deldown AV ist ein leichtes, einfaches und Open-Source-Antivirus, das laufende Prozesse im Hintergrund überprüft und mit der MalwareBazaar API abgleicht. Es bietet grundlegenden Schutz vor bekannten Bedrohungen mir  einer Benutzeroberfläche.
 
 ## Features
 
